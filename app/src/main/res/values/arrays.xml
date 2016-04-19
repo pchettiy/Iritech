@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="operationList">
+    	<item>Auto Capture</item>
+    	<item>Operator Initiated</item>
+	</string-array>
+	<string-array name="operationValues">
+ 	    <item>0</item>
+  	    <item>1</item>
+	</string-array>
+	<string-array name="qualityList">
+    	<item>Normal</item>
+    	<item>High</item>
+    	<item>Very High</item>
+	</string-array>
+	<string-array name="qualityValues">
+ 	    <item>0</item>
+  	    <item>1</item>
+  	    <item>2</item>
+	</string-array>
+	<string-array name="captureList">
+    	<item>Time Based</item>
+    	<item>Frame Based</item>
+	</string-array>
+	<string-array name="captureValues">
+ 	    <item>0</item>
+  	    <item>1</item>
+	</string-array>
+</resources>

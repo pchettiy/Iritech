@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_stop.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_stop.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_capture_mode.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_capture_mode.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_unselected.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_unselected.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_background.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_background.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_background.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_background.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_settings.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_settings.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_about_bg.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_about_bg.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_start.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_start.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_capture_grey.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_capture_grey.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_app_logo.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button3.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button3.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_matching_grey.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_matching_grey.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_switch.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_switch.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_dummy_background.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_dummy_background.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_registration_grey.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_registration_grey.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_background2.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_background2.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_about.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_about.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_refresh.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_text.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_text.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_notifications.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_notifications.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button2.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button2.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_actionbar_background.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_actionbar_background.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_pressed.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_pressed.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_info_details.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_unselected2.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_unselected2.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_content_background.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_content_background.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_iritech_logo.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_iritech_logo.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_app_about.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_app_about.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_add.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_add.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_unselected.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_unselected.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_unpressed.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_unpressed.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_pressed.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_pressed.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_divider.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_divider.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_button_padding_pressed.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_button_padding_pressed.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/border.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/border.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_menu_exit.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_menu_exit.png"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_tab_selected.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_tab_selected.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-xlarge-v4/ic_media_play.png",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-xlarge/ic_media_play.png"
+    }
+]

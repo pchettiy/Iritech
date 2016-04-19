@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/registration_layout_id" android:orientation="vertical" android:background="@drawable/ic_tab_content_background">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/registration_textedit_layout_id" android:gravity="center" android:padding="10dp" android:layout_marginTop="5dp">
+
+            <EditText
+                android:id="@+id/textedit_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="0dp"
+                android:layout_toRightOf="@+id/textlabel_id"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:keepScreenOn="true" >
+
+            </EditText>
+            <TextView android:layout_width="wrap_content" android:text="@string/textedit_label" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content" android:id="@+id/textlabel_id" android:layout_centerVertical="true" android:layout_alignParentLeft="true" android:textSize="16sp"></TextView>
+        </RelativeLayout>
+        <LinearLayout android:layout_width="fill_parent" android:orientation="vertical" android:id="@+id/registration_buttons_main_layout_id" android:gravity="right" android:layout_height="fill_parent">
+            <Button android:id="@+id/enroll_button_id" android:text="@string/enroll_label" android:layout_marginRight="7dp" android:layout_marginBottom="10dp" android:background="@drawable/ic_button3" android:textColor="#ffffff" android:layout_height="40dp" android:textSize="16sp" android:layout_width="90dp"></Button>
+            <ImageView android:layout_width="fill_parent" android:src="@drawable/ic_dummy_background" android:id="@+id/ImageView01" android:layout_height="5dp"></ImageView>
+            <LinearLayout android:layout_width="fill_parent" android:weightSum="1" android:id="@+id/registration_buttons_layout_id" android:paddingRight="0dp" android:padding="20dp" android:layout_height="wrap_content" android:gravity="center">
+                <Button android:id="@+id/unenroll_button_id" android:text="@string/unenroll_label" android:background="@drawable/ic_button3" android:textColor="#ffffff" android:layout_height="40dp" android:textSize="16sp" android:layout_width="90dp"></Button>
+                <Button android:id="@+id/unenrollall_button_id" android:layout_marginRight="7dp" android:text="@string/unenroll_all_label" android:background="@drawable/ic_button3" android:layout_marginLeft="10dp" android:textColor="#ffffff" android:layout_height="40dp" android:textSize="16sp" android:layout_width="90dp"></Button>
+            </LinearLayout>
+            <ImageView android:layout_width="fill_parent" android:src="@drawable/ic_dummy_background" android:id="@+id/dummy_image_view_id" android:layout_height="5dp"></ImageView>
+        </LinearLayout>
+    </LinearLayout>

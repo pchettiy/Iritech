@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/xml/spinner_text_style.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/xml/spinner_text_style.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/xml/device_filter.xml"
+    }
+]

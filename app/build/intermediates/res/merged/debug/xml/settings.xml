@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PreferenceScreen
+		xmlns:android="http://schemas.android.com/apk/res/android" >
+		<PreferenceCategory>
+		  <ListPreference
+			android:title="Operation Mode"
+            android:summary="Auto Capture"
+            android:key="operation_mode_pref"
+            android:defaultValue="0"
+            android:entries="@array/operationList" 
+            android:entryValues="@array/operationValues" />
+          <ListPreference
+			android:title="Quality Mode"
+            android:summary="Normal"
+            android:key="quality_mode_pref"
+            android:defaultValue="0"
+            android:entries="@array/qualityList" 
+            android:entryValues="@array/qualityValues" />
+        </PreferenceCategory>
+        <PreferenceCategory>
+        	<ListPreference
+				android:title="Capture Mode"
+           		android:summary="Time Based"
+            	android:key="capture_mode_pref"
+            	android:defaultValue="0"
+            	android:entries="@array/captureList" 
+            	android:entryValues="@array/captureValues" />
+			<EditTextPreference
+                android:title="Count Interval"
+                android:key="count_interval_pref" 
+                android:defaultValue="3"
+                android:summary="3" />
+        </PreferenceCategory>
+        <PreferenceCategory>
+        	<EditTextPreference
+                android:title="Output Directory"
+                android:key="output_dir_pref" 
+                android:defaultValue="/sdcard/iritech/output/"
+                android:summary="/sdcard/iritech/output/" />
+            <EditTextPreference
+                android:title="Prefix Name"
+                android:key="prefix_name_pref" 
+                android:defaultValue="Unknown"
+                android:summary="Unknown" />
+        	<!-- <CheckBoxPreference
+        		android:title="Save Streaming Images"
+                android:key="stream_images_pref" 
+                android:defaultValue="false"
+                android:summary="Streaming images will be saved to output directory" />
+                 -->
+            <CheckBoxPreference
+        		android:title="Save Best Image"
+                android:key="best_images_pref" 
+                android:defaultValue="true"
+                android:summary="Best image will be saved to output directory" /> 
+        </PreferenceCategory>
+        <PreferenceCategory>
+        	<CheckBoxPreference
+        		android:title="Check Deduplication"
+                android:key="check_dedup_pref" 
+                android:defaultValue="true"
+                android:summary="Check deduplication before enrollment" />
+        </PreferenceCategory>
+	</PreferenceScreen>

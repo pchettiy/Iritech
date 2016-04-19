@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IriShield Demo</string>
+    <string name="start_label">Start</string>
+    <string name="stop_label">Stop</string>
+    <string name="operate_label">Operate</string>
+    <string name="about_shortcut">a</string><string name="about_title">IriMania</string>
+    <string name="settings_label">Settings</string>
+	<string name="settings_title">Sample code settings</string>
+	<string name="settings_shortcut">s</string>
+	<string name="exit_label">Exit</string>
+	<string name="exit_shortcut">e</string>
+	<string name="textedit_label">Enrollee ID:</string>
+	<string name="verify_button_label">Verify</string>
+	<string name="enroll_label">Enroll</string>
+	<string name="unenroll_label">Unenroll</string>
+	<string name="unenroll_all_label">Unenroll All</string>
+	<string name="capture_mode_button_label">Capture Mode</string>
+	<string name="identify_button_label">Identify</string>
+	<string name="identify_label">Check recent captured iris with gallery</string>
+	<string name="text">Word:</string>
+	<string name="about_web">www.iritech.com</string>
+	<string name="about_text">IriShieldDemo version 3.3.0.\nCopyright © IriTech, Inc. 2013</string>
+	<string name="check_label">Check</string>
+	<string name="greyzone_suggest_retake_iris">The image is not matchable due to, e.g., occlusion, reflection, side-gazing, or blurriness.\r\nPlease re-capture another image and try again.</string>
+	<string name="no_match_found">This person is not in the enrollment database</string>
+</resources>

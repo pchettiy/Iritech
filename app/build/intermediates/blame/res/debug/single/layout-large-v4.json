@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/tab_background_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/tab_background_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/matching_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/matching_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/main_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/main_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/registration_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/registration_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/capture_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/capture_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-large-v4/about_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-large/about_layout.xml"
+    }
+]

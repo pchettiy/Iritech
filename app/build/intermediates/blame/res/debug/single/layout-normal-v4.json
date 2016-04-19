@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/registration_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/registration_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/about_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/about_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/tab_background_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/tab_background_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/matching_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/matching_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/main_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/main_layout.xml"
+    },
+    {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/layout-normal-v4/capture_layout.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/layout-normal/capture_layout.xml"
+    }
+]

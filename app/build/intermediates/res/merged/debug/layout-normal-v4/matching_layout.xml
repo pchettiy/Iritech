@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/matching_layout_id" android:background="@drawable/ic_tab_content_background">
+
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:padding="10dp" android:id="@+id/verify_textedit_layout_id" android:layout_marginTop="5dp">
+
+            <EditText
+                android:id="@+id/verify_textedit_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/verify_textedit_label_id"
+                android:imeOptions="actionDone"
+                android:inputType="text" >
+
+            </EditText>
+            <TextView android:layout_width="wrap_content" android:text="@string/textedit_label" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_height="wrap_content" android:id="@+id/verify_textedit_label_id" android:layout_centerVertical="true" android:layout_alignParentLeft="true" android:textSize="16sp"></TextView>
+        </RelativeLayout>
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:weightSum="1" android:gravity="center|right" android:paddingRight="7dp" android:id="@+id/verify_layout_id" android:layout_marginBottom="10dp">
+
+            <Button android:text="@string/verify_button_label" android:id="@+id/verify_button_id" android:background="@drawable/ic_button3" android:textColor="#ffffff" android:layout_height="40dp" android:textSize="16sp" android:layout_width="90dp"></Button>
+            <Button android:text="@string/identify_button_label" android:layout_marginLeft="6dp" android:id="@+id/identify_button_id" android:background="@drawable/ic_button3" android:textColor="#ffffff" android:layout_height="40dp" android:textSize="16sp" android:layout_width="90dp"></Button>
+
+        </LinearLayout>
+        <ImageView android:layout_width="fill_parent" android:src="@drawable/ic_dummy_background" android:id="@+id/dummy_image_view_id" android:layout_height="5dp"></ImageView>
+
+    </LinearLayout>
