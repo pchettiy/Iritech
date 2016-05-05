@@ -136,16 +136,16 @@
         "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-normal/ic_tab_divider.xml"
     },
     {
+        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-normal-v4/ic_tab_pressed.xml",
+        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-normal/ic_tab_pressed.xml"
+    },
+    {
         "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-normal-v4/ic_button_unselected.xml",
         "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-normal/ic_button_unselected.xml"
     },
     {
         "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-normal-v4/ic_button_background2.xml",
         "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-normal/ic_button_background2.xml"
-    },
-    {
-        "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-normal-v4/ic_tab_pressed.xml",
-        "source": "/home/praba1110/Desktop/Apps/source/app/src/main/res/drawable-normal/ic_tab_pressed.xml"
     },
     {
         "merged": "/home/praba1110/Desktop/Apps/source/app/build/intermediates/res/merged/debug/drawable-normal-v4/ic_app_about.png",

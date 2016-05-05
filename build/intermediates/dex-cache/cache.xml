@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/praba1110/Desktop/Apps/source/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="29e0a02246f36773bff6d14a11a3f48e3da1bae1">
+        <dex dex="/home/praba1110/Desktop/Apps/source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_249905a32849658b305deaf57a5ae0b80117a50e/classes.dex" />
+    </item>
+    <item
+        jar="/home/praba1110/Desktop/Apps/source/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="30f8bae1fe3de27b2341d45a882785266548d46f">
+        <dex dex="/home/praba1110/Desktop/Apps/source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_daf402cf71521c81775692b74704ef66aa7ac005/classes.dex" />
+    </item>
+    <item
+        jar="/home/praba1110/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/praba1110/Desktop/Apps/source/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c533abc728206c81ff5d21db8107b395703084e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/praba1110/Desktop/Apps/source/app/libs/iddk2000-android-v3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6d819d8f674684f328c77cdcd66d6d44e89f05ab">
+        <dex dex="/home/praba1110/Desktop/Apps/source/app/build/intermediates/transforms/dex/debug/folders/1000/2/iddk2000-android-v3.3.0_61d7eb82140ef106508104eebc998a5d6b787e39/classes.dex" />
+    </item>
+
+</items>
